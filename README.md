@@ -1,2 +1,2 @@
-# react-signup
-A simple sign up modal with basic animations made with react
+# react-starter
+A quickstart for react projects 
